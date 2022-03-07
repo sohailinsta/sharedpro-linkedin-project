@@ -1,0 +1,13 @@
+.input-box{
+    margin-left: 8px;
+    margin-top: 11px;
+    height: 21px;
+    width: 200px;
+}
+
+.margin-search-icon{
+    margin-top: 11px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+

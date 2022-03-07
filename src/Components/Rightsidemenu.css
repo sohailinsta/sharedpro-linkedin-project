@@ -1,0 +1,117 @@
+.main-right-side-menu{
+    margin-left: 960px;
+    margin-top: 80px;
+    background-color: white;
+    height: 51vh;
+    width: 23vw;
+    border-radius: 8px;
+}
+
+.second-right-side-menu{
+    margin-top: 28px;
+    background-color: white;
+    height: 55vh;
+    width: 23vw;
+    border-radius: 8px;
+}
+
+.img-set-second-right-side-menu{
+    width: 22vw;
+    height: 50vh;
+    margin-left: 7px;
+    margin-top: 14px;
+    cursor: pointer;
+}
+
+.linkedin{
+    font-size: medium;
+    color: black;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-left: 12px;
+    cursor: pointer;
+}
+
+.priority-icon{
+    margin-top: 10px;
+    margin-left: 165px;
+    cursor: pointer;
+}
+
+.right-side-menu{
+    display: flex;
+}
+
+.icon-priority{
+    margin-left: 170px;
+}
+
+.list-text{
+    font-size: 16px;
+    font-weight: 600;
+    color: rgb(37, 35, 35);
+}
+
+.list-text:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.text-top-news{
+    font-size: small;
+    font-weight: lighter;
+    color: gray;    
+}
+
+.flex-downarrow-two{
+    display: flex;
+    margin-top: 4px;
+    margin-left: 30px;
+}
+
+.text-about {
+font-size: small;
+font-weight: 600;
+color: gray;
+margin-left: 33px;
+cursor: pointer;
+
+}
+
+.text-about-ad{
+font-size: small;
+font-weight: 600;
+color: gray;
+margin-left: 33px;
+margin-top: 4px;
+}
+
+.text-about-advertising{
+font-size: small;
+font-weight: 600;
+color: gray;
+margin-left: 33px;
+margin-top: 4px;
+}
+
+.flex-privacy{
+    display: flex;
+    align-items: center;
+}
+
+.margin-about{
+    display: flex;
+    margin-top: 18px;
+}
+
+.margin-about-two-privacy{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 8px;
+}
+
+.margin-about-three-privacy{
+    display: flex;
+    margin-left: 31px;
+    margin-top: 8px;
+}

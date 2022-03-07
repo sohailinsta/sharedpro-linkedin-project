@@ -1,0 +1,238 @@
+.main-menu{
+    margin-left: 370px;
+    margin-top: 1px;
+    background-color: white;
+    border-radius: 8px;
+    width: 40vw;
+    height: 16vh;
+}
+
+.main-content{
+    position: absolute;
+}
+.margin-img-input{
+    display: flex;
+}
+
+.img-set-main{
+    width: 40px;
+    height: 40px;
+    margin-top: 12px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.input-box-one{
+    margin-left: 12px;
+    margin-top: 15px;
+    height: 30px;
+    width: 460px;
+    border-radius: 12px;
+}
+
+.icon-photo{
+    display: flex;
+    margin-left: 18px;
+    margin-top: 12px;
+    cursor: pointer;
+}
+
+.text-photo{
+    margin-left: 15px;
+    color: gray;
+}
+
+.photo-video-event{
+    display: flex;
+}
+
+.photo-video-event-two{
+    margin-left: 30px;
+}
+
+.line-side-three{
+    margin-left: 370px;
+    color: gray;
+}
+
+.margin-line-flex{
+    display: flex;
+}
+
+.sort-text{
+    color: gray;
+    font-size: small;
+    margin-left: 5px;
+    margin-top: 3px;
+    cursor: pointer;
+}
+
+.top-text{
+    font-size: small;
+    margin-left: 5px;
+    margin-top: 3px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.arrow-hover{
+    cursor: pointer;
+}
+
+.second-main{
+    margin-left: 370px;
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 8px;
+    width: 40vw;
+    height: 140vh;
+}
+
+.second-main-nikhil{
+    margin-left: 370px;
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 8px;
+    width: 40vw;
+    height: 142vh;
+}
+
+.second-main-lovely{
+    margin-left: 370px;
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 8px;
+    width: 40vw;
+    height: 143vh;
+}
+
+.second-main-anaya{
+    margin-left: 370px;
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 8px;
+    width: 40vw;
+    height: 142vh;
+}
+
+.second-main-video{
+    margin-left: 370px;
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 8px;
+    width: 40vw;
+    height: 147vh;
+}
+
+.main-img-lovely{
+    width: 546px;
+    margin-top: 10px;
+    height: 100vh;
+}
+
+.second-main-third{
+    margin-left: 370px;
+    margin-top: 180px;
+    background-color: white;
+    border-radius: 8px;
+    width: 40vw;
+    height: 123vh;
+}
+
+.flex-img-lovely{
+    display: flex;
+}
+
+.set-img-lovely{
+    width: 57px;
+    height: 57px;
+    margin-top: 10px;
+    margin-left: 12px;
+    cursor: pointer;
+}
+
+.set-img-nikhil{
+    width: 57px;
+    height: 57px;
+    margin-top: 10px;
+    margin-left: 12px;
+    border-radius: 50%;
+}
+
+.text-lovely-heading{
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.text-lovely-heading:hover{
+    text-decoration: underline;
+}
+
+.text-followers{
+    font-size: small;
+    font-weight: 400;
+    color: gray;
+}
+
+.public-icon{
+    display: flex;
+    color: gray;
+    margin-left: 4px;
+    font-weight: 400;
+    }
+
+.icon-public{
+    color: rgb(104, 100, 100);
+    margin-left: 5px;
+}
+
+.text-lovely-heading{
+    margin-top: 7px;
+    margin-left: 5px;
+}
+
+.horiz-icon{
+    margin-left: 200px;
+    margin-top: 10px;
+    color: rgb(104, 100, 100);
+    cursor: pointer;
+}
+
+.title-lovely{
+    color: rgb(53, 51, 51);
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+
+
+.like-post{
+    font-size: 14px;
+    color: gray;
+    margin-left: 20px;
+    margin-top: 12px;
+}
+
+.comments-text{
+    font-size: 14px;
+    color: gray;
+    margin-left: 90px;
+    margin-top: 12px;
+}
+
+.flex-like-icon-text{
+    display: flex;
+}
+
+.like-icons{
+    margin-top: 8px;
+    margin-left: 12px;
+}
+
+.profile-display-flex-again{
+    display: flex;
+}
+
+.photo-video-event-two-three{
+    margin-left: 30px;   
+}

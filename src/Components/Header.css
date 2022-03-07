@@ -1,0 +1,161 @@
+.flex{
+    display: flex;
+}
+
+.main-header{
+    background-color: white;
+    height: 55px;
+    position: relative;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.set-img-style{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 120px;
+    cursor: pointer;
+}
+
+
+.home{
+    margin-left: 180px;
+    cursor: pointer;
+}
+
+.icon-home{
+    margin-left: 13px;
+}
+
+.home-text{
+    font-size: small;
+    margin-left: 9px;
+}
+
+.home-text:hover{
+    text-decoration: underline;
+}
+
+.network{
+    margin-left: 25px;
+    cursor: pointer;
+}
+
+.icon-network{
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.network-text{
+    font-size: small;
+    margin-left: 7px;
+}
+
+.network-text:hover{
+    text-decoration: underline;
+}
+
+.job-text{
+    font-size: small;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.job-text:hover{
+    text-decoration: underline;
+}
+
+.icon-message{
+    margin-left: 45px;
+    cursor: pointer;  
+}
+
+.message-text{
+    font-size: small;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.message-text:hover{
+    text-decoration: underline;
+}
+
+.Notifications-text{
+    font-size: small;
+    margin-left: 23px;
+    margin-top: 1px;
+    cursor: pointer;
+}
+
+.Notifications-text:hover{
+    text-decoration: underline;
+}
+
+.set-img-profile{
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+}
+
+.set-img-profile{
+    margin-left: 20px;   
+    margin-top: 4px;
+}
+
+.profile-text{
+    font-size: small;
+    margin-left: 22px;
+    cursor: pointer;
+}
+
+.profile-text:hover{
+    text-decoration: underline;
+}
+
+.network-two{
+    margin-left: 75px;
+}
+
+.icon-network-two{
+    margin-left: 30px;
+    cursor: pointer;   
+}
+
+.network-text-two{
+    font-size: small;
+    margin-left: 28px;
+    cursor: pointer;
+}
+
+.network-text-two:hover{
+    text-decoration: underline;
+}
+
+.premium{
+    margin-top: 8px;
+    color: rgb(212, 191, 67);
+    cursor: pointer;
+}
+
+.premium-text{
+    font-size: 12px;
+    margin-left: 26px;
+}
+
+.premium-text:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.premium-text-free{
+    font-size: 12px;
+    margin-left: 56px;
+}
+
+.premium-text-free:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
